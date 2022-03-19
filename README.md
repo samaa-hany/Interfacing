@@ -1,2 +1,2 @@
 # Embedded-C
-Simple projects of embedded systems
+Simple projects of embedded systems and communication protocols 
